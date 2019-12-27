@@ -1,0 +1,38 @@
+
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 80vh;
+  min-height: 400px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.navbar {
+    background-color: #212426 !important;
+}
+.img-logo{
+    height:56px;
+}
+
+h2 {
+    margin-top: 40px;
+    color: black;
+    margin-bottom: 40px;
+}
+h4.card-title {
+    color: black;
+}
+
+.footer {
+    background-color: #212426 !important;
+}
